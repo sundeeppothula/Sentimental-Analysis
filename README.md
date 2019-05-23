@@ -5,7 +5,7 @@ determine algorithmically whether a statement or document is “positive” or �
 
 Sentimental Analysis can be used in many Industries to generate Insights from the unstructured text Data. This repository covers usage of  sentimental Analysis in few of such Industries.
 
-![GitHub Logo](https://cdn-images-1.medium.com/max/948/0*ga5rNPmVYBsCm-lz.)
+![GitHub Logo](https://devopedia.org/images/article/105/6387.1532706595.png)
 
 This repository contains three notebooks - 
 
